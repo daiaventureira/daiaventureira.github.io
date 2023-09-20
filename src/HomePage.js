@@ -19,7 +19,8 @@ const HomePage = props => {
                         <a rel="noopener noreferrer" target="_blank" href="https://github.com/daiaventureira"> <FontAwesomeIcon icon={faGithub} /></a>
                         <a rel="noopener noreferrer" target="_blank" href="https://codepen.io/daiaventureira/"> <FontAwesomeIcon icon={faCodepen} /></a>
                         <a rel="noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/daiane-souzas"> <FontAwesomeIcon icon={faLinkedin}/></a>
-                        <a  href="mailto:daianesou2704@gmail.com"> <FontAwesomeIcon icon={faEnvelopeOpen} /></a> 
+                        <a rel="noopener noreferrer" target="_blank" href="https://twitter.com/daiaventureira"> <FontAwesomeIcon icon={faTwitter} /></a>
+                        <a  href="mailto:daiane.souzas@icloud.com"> <FontAwesomeIcon icon={faEnvelopeOpen} /></a>  
                     </div>
                 </div>
            </div>       
